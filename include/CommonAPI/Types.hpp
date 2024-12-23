@@ -10,6 +10,8 @@
 #ifndef COMMONAPI_TYPES_HPP_
 #define COMMONAPI_TYPES_HPP_
 
+#include <string.h> // this can solve the error on the environment of Ubuntu 24.04
+
 #include <cstdint>
 #include <functional>
 #include <unordered_set>
